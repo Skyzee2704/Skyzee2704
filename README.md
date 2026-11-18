@@ -18,7 +18,6 @@ Projects I've worked on as a developer.
 | Project | What I built | Stack |
 | ------- | ---------- | ----- |
 | [**SkyBOT Mint**](https://github.com/Skyzee2704/skybot-mint) · [live](https://skybotmint.web.id) | Developed a multi-user NFT mint desk for OpenSea drops and any NFT contract, on the web and inside a Telegram Mini App. Simulation-first mints, scheduled jobs, and Privy-custodied wallets so raw keys never touch the server. | Next.js, TypeScript, viem, Privy, Neon Postgres, Upstash QStash |
-| [**Letheans**](https://letheans-web.vercel.app) | Developed the website and whitelist system for the Letheans NFT PFP collection: X sign-in quests, Google Sheets backed applications, downloadable whitelist cards with registration numbers, and a public WL status checker. | Next.js 16, React 19, Tailwind v4, Framer Motion, Auth.js |
 | [**EIP-7702 Sponsored Revoke**](https://github.com/Skyzee2704/eip7702-sponsored-revoke) | Built a security tool that removes a malicious EIP-7702 delegation from a compromised wallet without funding the victim wallet, so a drainer can't sweep the gas. Includes a dry-run mode and a full step-by-step guide. | Node.js, viem |
 
 ## 🛠️ What I do
